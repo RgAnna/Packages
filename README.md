@@ -1,45 +1,45 @@
-# 📦 Sci-Fi Asset Pack
+Sci-Fi Asset Pack
+Welcome to my project dedicated to creating assets for a sci-fi PvP zone. This is part of a test assignment, within which I developed game objects: a drone and a tech block with multiple functions.
 
-Добро пожаловать в мой проект по созданию ассетов для sci-fi PvP-зоны. Это часть тестового задания, в рамках которого мной были разработаны игровые объекты: дрон и техноблок с несколькими функциями.
+Asset Composition
+Drone
+Purpose: Reconnaissance and support
 
----
+Polygon count: 1,746 tris
 
-## 🔧 Состав ассетов
+Features: Lightweight body, suspension, sensors
 
-### 🛸 Дрон
-- Назначение: Разведка и поддержка
-- Кол-во трисов: 1746
-- Особенности: Легкий корпус, подвес, сенсоры
+Tech Block (PvP Zone)
+Purpose: Player support
 
-### 🧊 Техноблок (PvP-зона)
-- Назначение: Поддержка игроков
-- Варианты функций:
-  - Хил
-  - Ускорение
-  - Защита
-  - Усиление (баф силы)
-- Кол-во трисов: 1392
+Function variants:
 
----
+Heal
 
-## 📐 Технологии
+Acceleration
 
-- **Blender** — моделирование ассетов
-- **Figma / Miro** — концепт, логика и визуальные схемы
-- **Git / GitHub** — контроль версий и публикация
+Defense
 
----
+Strength buff
 
-## 📁 Ссылки
+Polygon count: 1,392 tris
 
-- 🧠 [Доска с референсами и логикой в Miro](https://miro.com/welcomeonboard/bGttWjBEVVdzVGNIVXMyU1NXUUcwaDU5R0cvUGpOdmsrUndKcTYwOXVPbDJQOTVkd1pmdHYrTUFibVd5ck8vMERNNlJwMmEzUy9yc1pITENSWTZWMTlZcUlxQUFiSFduL2s1ekdBUkY0SnNwMjdqMy93NDZGQXF4Nyt4UEE3Zm9Bd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=999097879941)
+Technologies
+Blender — asset modeling
 
-- 📦 [Скачать ассеты с Яндекс.Диска](https://disk.yandex.ru/d/FRJ8psvawllqrA)
+Figma / Miro — concept design, logic, and visual schematics
 
----
+Git / GitHub — version control and publishing
 
-## 🎯 Цели проекта
+Links
+Reference board with logic on Miro
 
-- Продемонстрировать навыки 3D-моделирования
-- Подготовить игровые ассеты для использования в Unity/Unreal
-- Выполнить качественную работу, пригодную для добавления в портфолио
+Download assets from Yandex.Disk
+
+Project Goals
+Demonstrate 3D modeling skills
+
+Prepare game assets for use in Unity/Unreal
+
+Deliver quality work suitable for portfolio inclusion
+
