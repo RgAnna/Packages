@@ -32,7 +32,7 @@
 - [Asset Downloads (Yandex.Disk)](https://disk.yandex.com/example_link)
 
 #############################################################################
-## Social :
+# Social :
 **Artstation** - [Link](https://www.artstation.com/rganna)
 
 #############################################################################
