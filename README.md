@@ -31,8 +31,10 @@
 - [Miro Board (Concepts & Logic)](https://miro.com/app/board/uXjVN8GCWcM=/)
 - [Asset Downloads (Yandex.Disk)](https://disk.yandex.com/example_link)
 
+#############################################################################
 ## Social :
 **Artstation** - [Link](https://www.artstation.com/rganna)
+#############################################################################
 
 ---
 
@@ -69,6 +71,7 @@
 - [Miro (Концепты и Логика)](https://miro.com/app/board/uXjVN8GCWcM=/)
 - [Загрузка ассетов (Yandex.Disk)](https://disk.yandex.ru/d/FRJ8psvawllqrA)
 
-## Социальные сети :
+#############################################################################
+# Социальные сети :
 **Artstation** - [Link](https://www.artstation.com/rganna)
-
+#############################################################################
