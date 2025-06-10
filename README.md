@@ -3,16 +3,12 @@
 ## Asset Specifications
 
 ### Drone (Reconnaissance & Support)
-- **Polygons:** 1,746 triangles
-- **Features:** 
-  - Lightweight chassis
-  - Suspension system
-  - Sensor arrays
+- **Polygons:** 1,746 tris
 - **Purpose:** Scouting, terrain analysis, tactical assistance
 
 ### Tech Block (Player Support)
-- **Polygons:** 1,392 triangles
-- **Functionality Modes:**
+- **Polygons:** 1,392 tris
+- **Power Upgrades (cube)**
   - Healing
   - Movement acceleration
   - Defense shielding
@@ -32,8 +28,11 @@
 - Build portfolio-quality work
 
 ##  Resources
-- [Miro Board (Concepts & Logic)](https://miro.com/example_link)
+- [Miro Board (Concepts & Logic)](https://miro.com/app/board/uXjVN8GCWcM=/)
 - [Asset Downloads (Yandex.Disk)](https://disk.yandex.com/example_link)
+
+## Social :
+**Artstation** - [Link](https://www.artstation.com/rganna)
 
 ---
 
@@ -43,15 +42,11 @@
 
 ### Дрон (Разведка и Поддержка)
 - **Полигоны:** 1,746 треугольников
-- **Особенности:**
-  - Облегчённый корпус
-  - Амортизация
-  - Сенсорные массивы
 - **Назначение:** Разведка, анализ местности, тактическая поддержка
 
 ### Технический Блок (Поддержка Игрока)
-- **Полигоны:** 1,392 треугольника
-- **Режимы работы:**
+- **Полигоны:** 1,392 трисса
+- **Усиления (куб):**
   - Восстановление здоровья
   - Ускорение передвижения
   - Защитное поле
@@ -71,10 +66,9 @@
 - Сформировать портфолио-ориентированные работы
 
 ##  Ресурсы
-- [Miro (Концепты и Логика)](https://miro.com/example_link)
-- [Загрузка ассетов (Yandex.Disk)](https://disk.yandex.com/example_link)
+- [Miro (Концепты и Логика)](https://miro.com/app/board/uXjVN8GCWcM=/)
+- [Загрузка ассетов (Yandex.Disk)](https://disk.yandex.ru/d/FRJ8psvawllqrA)
 
----
+## Социальные сети :
+**Artstation** - [Link](https://www.artstation.com/rganna)
 
-*Assets optimized for mobile/desktop platforms. Textures and materials included.*  
-*Ассеты оптимизированы под мобильные и десктопные платформы. Текстуры и материалы включены.*
